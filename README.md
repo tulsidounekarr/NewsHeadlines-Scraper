@@ -85,7 +85,7 @@ README.md       # Project documentation
 🎯 Hints & Mini Guide:
 
 1. Use requests.get() to fetch HTML
-2. Use BeautifulSoup to parse <h2>, <h3>, or <a> tags
+2. Use BeautifulSoup to parse <h2>, <h3>
 3. Use .get_text() and filtering for headline quality
 4. Save results using the csv module
 
