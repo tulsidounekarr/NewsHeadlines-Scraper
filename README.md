@@ -55,7 +55,7 @@ This will:
 ---
 
  📸 Preview
-
+![image alt](https://github.com/tulsidounekarr/NewsHeadlines-Scraper/blob/15086e7a96bbdc08b896232ea1e4e9a23dd219fc/image.jpg)
 
 ---
 
