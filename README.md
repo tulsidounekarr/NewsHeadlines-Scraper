@@ -32,6 +32,7 @@ Automate the extraction of news headlines from a trusted source to reduce manual
 
 📦 Requirements:
 Python 3.x
+
 ---
 
 Install dependencies:
@@ -39,6 +40,7 @@ Install dependencies:
 -bash
 -Copy code
 -pip install requests beautifulsoup4
+
 ---
 
 ▶ How to Run
@@ -50,6 +52,7 @@ This will:
 -Scrape the top 10 BBC News headline
 -Save them into headlines.csv
 -Display them in the terminal
+
 ---
 
 📝 Sample Output (Terminal)
@@ -60,7 +63,9 @@ Copy code
 1. AI tools to be regulated by new UK tech bill
 2. Ukraine peace talks continue despite setbacks
 3. Scientists discover new coral reef in Maldives
+4. 
 ...
+ 
    ---
 
  📸 Preview
@@ -74,6 +79,7 @@ Copy code
 scraper.py     # Main Python script
 headlines.csv   # Output file with news headlines
 README.md       # Project documentation
+
 ---
 
 🎯 Hints & Mini Guide:
@@ -90,7 +96,7 @@ README.md       # Project documentation
 2. Web Scraping
 3. HTML Parsing
 4. File Handling (CSV)
-5. 
+   
  ---
 
 - GitHub: [@tulsidounekarr](https://github.com/tulsidounekarr)
