@@ -54,7 +54,13 @@ This will:
 
 ---
 
+ 📸 Preview
+
+
+---
+
 📂 Project Structure
+
 bash
 Copy code
 scraper.py        # Main Python script
