@@ -1,8 +1,9 @@
-# NewsHeadlines-Scraper
-To develop a Python script that automatically scrapes the latest top headlines from a popular news website and stores them in a .txt file for offline reading or analysis. 
-
 
 🕸️📝 News Headlines Web Scraper
+
+To develop a Python script that automatically scrapes the latest top headlines from a popular news website and stores them in a .txt file for offline reading or analysis. 
+
+---
 
 🚀 Features: 
 
@@ -70,7 +71,7 @@ README.md         # Project documentation
 ---
 📝 Sample Output (Terminal)
 bash
-Copy code
+
 📰 Top 10 BBC News Headlines:
 
 1. AI tools to be regulated by new UK tech bill
@@ -98,10 +99,13 @@ Copy code
 
  ---
 
-👩‍💻 Author
-GitHub: @tulsidounekarr
+👨‍💻 Author
+
+- GitHub: [@tulsidounekarr](https://github.com/tulsidounekarr)
+
 
  ---
 
-📄 License
-This project is open-source and available under the MIT License.
+ 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
